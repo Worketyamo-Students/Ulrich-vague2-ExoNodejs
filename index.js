@@ -14,7 +14,7 @@ var port = 3000;
 // })
 
 // serveur.listen(port, ()=>{
-//     console.log(`serveur démarré sur http://localhost:${port}`);
+//     console.log(`Le serveur s'execute sur http://localhost:${port}`);
 // })
 
 
@@ -43,7 +43,7 @@ var port = 3000;
 // })
 
 // serveur.listen(port, ()=>{
-//     console.log(`serveur démarré sur http://localhost:${port}`);
+//     console.log(`Le serveur s'execute sur http://localhost:${port}`);
 // })
 
 
@@ -71,7 +71,7 @@ const url = require("url");
 // })
 
 // serveur.listen(port, ()=>{
-//     console.log(`serveur démarré sur http://localhost:${port}`);
+//     console.log(`Le serveur s'execute sur http://localhost:${port}`);
 // })
 
 
@@ -93,7 +93,7 @@ const url = require("url");
 // });
     
 // serveur.listen(port, ()=>{
-//     console.log(`serveur démarré sur http://localhost:${port}`);
+//     console.log(`Le serveur s'execute sur http://localhost:${port}`);
 // })
 
 
@@ -124,5 +124,5 @@ const url = require("url");
     
 
 // serveur.listen(port, ()=>{
-//     console.log(`serveur démarré sur http://localhost:${port}`);
+//     console.log(`Le serveur s'execute sur http://localhost:${port}`);
 // })
